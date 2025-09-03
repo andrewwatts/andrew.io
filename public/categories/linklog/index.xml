@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linklog on Andrew&#39;s Notes</title>
+    <link>http://localhost:1313/categories/linklog/</link>
+    <description>Recent content in Linklog on Andrew&#39;s Notes</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Sep 2025 12:31:27 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/linklog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting Ai Tool</title>
+      <link>http://localhost:1313/posts/interesting-ai-tool/</link>
+      <pubDate>Wed, 03 Sep 2025 12:31:27 -0400</pubDate>
+      <guid>http://localhost:1313/posts/interesting-ai-tool/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Why this is interesting&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;quote&#34;&gt;Quote&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[Optional quoted text]&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&#34;LINK_URL_HERE&#34;&gt;Article Title&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

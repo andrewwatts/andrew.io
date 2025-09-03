@@ -6,10 +6,30 @@
     <description>Recent content on Andrew&#39;s Notes</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 10:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 14:43:59 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World - Why I&#39;m Writing About Agentic AI</title>
+      <title>First Impressions: Claude Code in the Real World</title>
+      <link>http://localhost:1313/posts/claude-code-in-the-real-world/</link>
+      <pubDate>Wed, 03 Sep 2025 14:43:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/claude-code-in-the-real-world/</guid>
+      <description>&lt;p&gt;I’d been a little reluctant to try out &lt;strong&gt;Claude Code&lt;/strong&gt; for a number of reasons, but I finally did. I was also hesitant to use it on work projects, but I ended up testing it on a greenfield project I needed to complete.&lt;/p&gt;
+&lt;p&gt;At work, we have a bunch of aging laptops that need to be disposed of. There are plenty of ITAD vendors out there, but the ones I contacted required a spreadsheet filled with detailed device information. They’d then take that spreadsheet and provide a quote. If you left out details, the quote would be wildly inaccurate.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interesting Ai Tool</title>
+      <link>http://localhost:1313/posts/interesting-ai-tool/</link>
+      <pubDate>Wed, 03 Sep 2025 12:31:27 -0400</pubDate>
+      <guid>http://localhost:1313/posts/interesting-ai-tool/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
+&lt;p&gt;Why this is interesting&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;quote&#34;&gt;Quote&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[Optional quoted text]&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&#34;LINK_URL_HERE&#34;&gt;Article Title&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World, Again...</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Tue, 02 Sep 2025 10:00:00 -0500</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
