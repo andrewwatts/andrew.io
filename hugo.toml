@@ -5,17 +5,21 @@ theme = "PaperMod"
 
 [params]
   env = "production"
-  description = "Notes on Agentic AI and Coding"
+  description = "Andrew's Notes"
   author = "Andrew"
   
   # Home page
   homeInfoParams.Title = "Andrew's Notes"
-  homeInfoParams.Content = "Thoughts and learnings on Agentic AI for coding"
+  homeInfoParams.Content = "Thoughts and learnings"
   
   # Social links (optional)
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/yourusername"
+  url = "https://github.com/andrewwatts"
+
+  # Enable search
+  fuseOpts.keys = ["title", "permalink", "summary", "content"]
+
 
 # Menu
 [[menu.main]]
