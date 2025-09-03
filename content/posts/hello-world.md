@@ -1,5 +1,5 @@
 ---
-title: "Hello World - Why I'm Writing About Agentic AI"
+title: "Hello World, Again..."
 date: 2025-09-02T10:00:00-05:00
 draft: false
 tags: ["introduction", "agentic-ai"]
